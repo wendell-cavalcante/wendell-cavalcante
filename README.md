@@ -4,6 +4,7 @@
 
 My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo - SP, I am passionate about technology and I am currently studying Systems Analysis and Development, focusing my studies on Back-End.
 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/owendell/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin"  />
@@ -78,3 +79,8 @@ My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
+</div>
