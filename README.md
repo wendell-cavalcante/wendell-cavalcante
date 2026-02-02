@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Wendell de Oliveira, tenho 20 anos e naturalmente de São Paulo - SP, sou apaixonado por tecnologia e estou atualmente cursando Análise e Desenvolvimento de Sitemas na FMU direcionando meus estudos em Back-End.
+My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo - SP, I am passionate about technology and I am currently studying Systems Analysis and Development, focusing my studies on Back-End.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/owendell/" target="_blank">
