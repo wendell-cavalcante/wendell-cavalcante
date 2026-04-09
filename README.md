@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Wendell Oliveira
 
-**`Desenvolvedor Back-End`**
+**`Back-End Developer`**
 
 My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo - SP, I am passionate about technology and I am currently studying Systems Analysis and Development, focusing my studies on Back-End.
 
