@@ -11,7 +11,7 @@ My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo
             title="Siga-me no instagram!" 
             src="https://img.shields.io/badge/build-me-purple?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF&logoSize=auto&label=SIGA-ME%20%3A)&labelColor=e4405f&color=bc2a8d&link=https%3A%2F%2Fwww.instagram.com%2Fgust.fsilva" />
     </p>
- <div align="left">
+ <div align="right">
   <a href="https://www.linkedin.com/in/owendell/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin"  />
   </a>
