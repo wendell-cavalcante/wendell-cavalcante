@@ -72,7 +72,7 @@ My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo
 	style="padding-right: 10px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<div align="left">
+<div align="center">
     <br>
     <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
