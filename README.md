@@ -4,6 +4,15 @@
 
 My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo - SP, I am passionate about technology and I am currently studying Systems Analysis and Development, focusing my studies on Back-End.
 
+<div align="left">
+    <a href="https://www.instagram.com/owende.ll/">
+        <img 
+            alt="instagram followers" 
+            title="Siga-me no instagram!" 
+            src="https://img.shields.io/badge/build-me-purple?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF&logoSize=auto&label=SIGA-ME%20%3A)&labelColor=e4405f&color=bc2a8d&link=https%3A%2F%2Fwww.instagram.com%2Fgust.fsilva"
+        />
+    </a>
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/owendell/" target="_blank">
