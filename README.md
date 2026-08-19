@@ -9,7 +9,7 @@ My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo
         <img 
             alt="instagram followers" 
             title="Follow me!" 
-            src="https://img.shields.io/badge/build-me-purple?style=for-the-badge&logo=instagram&logoColor=%23FFFFFF&logoSize=auto&label=SIGA-ME%20%3A)&labelColor=e4405f&color=bc2a8d" 
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" 
         />
     </a>
 	<a href="https://www.linkedin.com/in/owendell/" target="_blank">
