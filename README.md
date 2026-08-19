@@ -23,7 +23,7 @@ My name is Wendell de Oliveira, I am 20 years old and originally from São Paulo
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img align="left"
 	alt="JAVA"
